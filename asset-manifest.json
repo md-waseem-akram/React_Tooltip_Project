@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/md-waseem-akram/React_Tooltip_Project.git/static/css/main.4aaab65b.css",
+    "main.js": "/md-waseem-akram/React_Tooltip_Project.git/static/js/main.5d8d74de.js",
+    "static/js/787.3cbf1b22.chunk.js": "/md-waseem-akram/React_Tooltip_Project.git/static/js/787.3cbf1b22.chunk.js",
+    "index.html": "/md-waseem-akram/React_Tooltip_Project.git/index.html",
+    "main.4aaab65b.css.map": "/md-waseem-akram/React_Tooltip_Project.git/static/css/main.4aaab65b.css.map",
+    "main.5d8d74de.js.map": "/md-waseem-akram/React_Tooltip_Project.git/static/js/main.5d8d74de.js.map",
+    "787.3cbf1b22.chunk.js.map": "/md-waseem-akram/React_Tooltip_Project.git/static/js/787.3cbf1b22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aaab65b.css",
+    "static/js/main.5d8d74de.js"
+  ]
+}
